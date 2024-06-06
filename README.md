@@ -128,3 +128,6 @@ R, p_val = get_R(adata_pred, adata_truth)
 print('Mean Pearson Correlation:', np.nanmean(R))
 print('-log10p_val:', -np.log10(p_val))
 ```
+
+## Citation
+Jia et al. “THItoGene: a deep learning method for predicting spatial transcriptomics from histological images.” Briefings in bioinformatics vol. 25,1 (2024). [Paper]:([https://www.synapse.org/#!Synapse:syn52503858/files/](https://doi.org/10.1093/bib/bbad464)).
