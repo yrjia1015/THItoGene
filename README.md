@@ -85,7 +85,7 @@ NOTE: Run the following command if you want to run the pipline
 
 2. Run `gunzip *.gz` in the dir `./data/her2st/data/ST-cnts/` to unzip the gz files
 
-### HisToGene training
+### THItoGene training
 
 ```python
 import pytorch_lightning as pl
